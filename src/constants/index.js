@@ -91,7 +91,7 @@ export const frameworks = [
 export const projects = [
     {
       title: "SubSentiments: A Subreddit Sentiment Analysis Tool",
-      description: "SubSentiments is a web application tool that allows users to analyze the sentiment of a subreddit. Users can input a subreddit name and the tool will summarized and visualize the data gathered from the Sentiment Analysis. The model used in the web application is a DistilBERT that was fine-tuned by me using a reddit dataset with 50,000+ entries. It utilizes a lot of python libraries such as transformers, pandas, praw, torch, sklearn, google translate api, etc.. The web application is solely made with Panel a high level python framework. It is currently deployed using Google Cloud Platform.",
+      description: "SubSentiments is a web application tool that allows users to analyze the sentiment of a subreddit. Users can input a subreddit name and the tool will summarize and visualize the data gathered from the Sentiment Analysis. The model used in the web application is a DistilBERT that was fine-tuned by me using a reddit dataset with 50,000+ entries. It utilizes a lot of python libraries such as transformers, pandas, praw, torch, sklearn, google translate api, etc.. The web application is solely made with Panel, a high level python framework. It is currently deployed using Google Cloud Platform.",
       liveDemoUrl: "https://subsentiments-latest-2f7acoidia-de.a.run.app/",
       techStack: [{
         title: "Python",
