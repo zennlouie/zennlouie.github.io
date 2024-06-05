@@ -25,7 +25,7 @@ const Hero = () => {
             <a href='https://www.linkedin.com/in/zenn-louie-reyes-a60895215/' target='_blank' rel="noopener noreferrer" className="w-10 h-10 md:w-12 md:h-12">
               <img src={linkedin} alt="linkedin" className='w-full h-full hover:scale-105' />
             </a>
-            <a href='https://github.com/zenrui' target='_blank' rel="noopener noreferrer" className="w-10 h-10 md:w-12 md:h-12">
+            <a href='https://github.com/zennlouie' target='_blank' rel="noopener noreferrer" className="w-10 h-10 md:w-12 md:h-12">
               <img src={github} alt="github" className='w-full h-full hover:scale-105' />
             </a>
             <a href='mailto:reyeszlc21@gmail.com' target='_blank' rel="noopener noreferrer" className="w-10 h-10 md:w-12 md:h-12">
