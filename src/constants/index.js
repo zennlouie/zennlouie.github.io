@@ -131,7 +131,7 @@ export const projects = [
     {
       title: "Portfolio",
       description: "This is my personal portfolio.",
-      liveDemoUrl: "https://zenrui.github.io/",
+      liveDemoUrl: "https://zennlouie.github.io/",
       techStack: [{
         title: "React",
         icon: react
