@@ -6,8 +6,41 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.sunset-gradient {
+  background: #FFDEE9; /* fallback color */
+  background: linear-gradient(90deg, #FFDEE9 0%, #B5FFFC 100%);
+  background: -webkit-linear-gradient(90deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+
+.text-secondary-light {
+  color: 		#ff6982;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.animate-bounce-slow {
+  animation: bounce 3s infinite;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
