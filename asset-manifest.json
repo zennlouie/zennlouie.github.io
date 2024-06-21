@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.078fd5d5.css",
-    "main.js": "/static/js/main.3ba3128c.js",
+    "main.js": "/static/js/main.dc7d05de.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/elgives9.png": "/static/media/elgives9.4ca0c30f5e7953b90a98.png",
     "static/media/amilaude1.png": "/static/media/amilaude1.2c8dab8ece615daa7421.png",
@@ -17,13 +17,13 @@
     "static/media/amilaude2.png": "/static/media/amilaude2.4d9538238e8d74077ac9.png",
     "static/media/elgives13.png": "/static/media/elgives13.cb86b2c9ae7972d28338.png",
     "static/media/elgives8.png": "/static/media/elgives8.f7b8f2d275d817ecebcf.png",
-    "static/media/2024 Reyes Resume.pdf": "/static/media/2024 Reyes Resume.7bf2397d636bc6c0731d.pdf",
     "static/media/elgives11.png": "/static/media/elgives11.25bfe98e001b9076bc69.png",
     "static/media/elgives6.png": "/static/media/elgives6.deb8621424ce529088a3.png",
     "static/media/amilaude4.png": "/static/media/amilaude4.4594f63b574dc0e3ef78.png",
     "static/media/elgives14.png": "/static/media/elgives14.8b56f0d1838d373ce9e7.png",
     "static/media/amilaude5.png": "/static/media/amilaude5.3967ca82de403d526564.png",
     "static/media/chatgpt.png": "/static/media/chatgpt.b7445f681e040bd71734.png",
+    "static/media/2024 Reyes Resume.pdf": "/static/media/2024 Reyes Resume.51ea78016f967419bdc3.pdf",
     "static/media/elgives7.png": "/static/media/elgives7.9bd9e6868f3c1ad465cf.png",
     "static/media/amilaude3.png": "/static/media/amilaude3.697729173173bf04e5cc.png",
     "static/media/gcp.png": "/static/media/gcp.caaeff7b08c16d725e24.png",
@@ -36,11 +36,11 @@
     "static/media/docker.png": "/static/media/docker.e3b804f0d9a064ea6e20.png",
     "index.html": "/index.html",
     "main.078fd5d5.css.map": "/static/css/main.078fd5d5.css.map",
-    "main.3ba3128c.js.map": "/static/js/main.3ba3128c.js.map",
+    "main.dc7d05de.js.map": "/static/js/main.dc7d05de.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.078fd5d5.css",
-    "static/js/main.3ba3128c.js"
+    "static/js/main.dc7d05de.js"
   ]
 }
