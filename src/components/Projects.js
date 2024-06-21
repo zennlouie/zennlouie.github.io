@@ -7,7 +7,7 @@ const ProjectCard = ({ project, isExpanded, onToggle }) => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [isImageModalOpen, setIsImageModalOpen] = useState(false);
 
-  const cardRef = useRef(null); // Create a ref for the card container
+  const cardRef = useRef(null);
   const nextSlide = () => {
     setCurrentSlide((prevSlide) => (prevSlide + 1) % project.images.length);
   };
@@ -29,7 +29,7 @@ const ProjectCard = ({ project, isExpanded, onToggle }) => {
   if (!isExpanded && cardRef.current) {
     setTimeout(() => {
       cardRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }, 200); // Delay scrolling for a brief moment to allow the card to expand fully
+    }, 200); 
   }
 };
 
@@ -96,7 +96,7 @@ const Projects = () => {
   return (
     <section id="projects" className="py-12 bg-gray-50">
       <div className="container max-w-7xl mx-auto flex flex-col justify-between px-4">
-        <h2 className={`${styles.sectionHeadText} font-bold mb-16`}>public projects.</h2>
+        <h2 className={`${styles.sectionHeadText} font-bold mb-16`}>my public projects.</h2>
         {projects.map((project, index) => (
           <ProjectCard
             key={index}
