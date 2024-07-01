@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.078fd5d5.css",
-    "main.js": "/static/js/main.dc7d05de.js",
+    "main.js": "/static/js/main.2af1bc04.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/elgives9.png": "/static/media/elgives9.4ca0c30f5e7953b90a98.png",
+    "static/media/portrait.jpg": "/static/media/portrait.d1acbcfb786cfc6099f8.jpg",
     "static/media/amilaude1.png": "/static/media/amilaude1.2c8dab8ece615daa7421.png",
     "static/media/copilot.png": "/static/media/copilot.a277acd790491f68c5b2.png",
     "static/media/elgives12.png": "/static/media/elgives12.887bd537f4f3061121ad.png",
@@ -11,7 +12,6 @@
     "static/media/elgives2.png": "/static/media/elgives2.d855d0b6e03e3b2b1b7f.png",
     "static/media/elgives4.png": "/static/media/elgives4.78dbdd7c0feb51c7ea36.png",
     "static/media/elgives1.png": "/static/media/elgives1.ad9057201329a4f9f5e1.png",
-    "static/media/portrait.jpg": "/static/media/portrait.4fec78ffba0473ddb0b0.jpg",
     "static/media/elgives10.png": "/static/media/elgives10.4bfc5fa2df770c880e66.png",
     "static/media/elgives5.png": "/static/media/elgives5.07c3d4367a8bf8c32de3.png",
     "static/media/amilaude2.png": "/static/media/amilaude2.4d9538238e8d74077ac9.png",
@@ -36,11 +36,11 @@
     "static/media/docker.png": "/static/media/docker.e3b804f0d9a064ea6e20.png",
     "index.html": "/index.html",
     "main.078fd5d5.css.map": "/static/css/main.078fd5d5.css.map",
-    "main.dc7d05de.js.map": "/static/js/main.dc7d05de.js.map",
+    "main.2af1bc04.js.map": "/static/js/main.2af1bc04.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.078fd5d5.css",
-    "static/js/main.dc7d05de.js"
+    "static/js/main.2af1bc04.js"
   ]
 }
